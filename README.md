@@ -24,5 +24,5 @@ technologies that were used in this application
 - use python liblary for Remove background on backend server
 - to save and process photos, a server was written on a php framework use API Retrofit library
 
-![Screenshot](https://raw.githubusercontent.com/skvarovski/PhotoMarketApp/images/device-2021-12-09-233515.png)
-![Screenshot](https://raw.githubusercontent.com/skvarovski/PhotoMarketApp/images/device-2021-12-10-001118.png)
+![Screenshot](https://github.com/skvarovski/PhotoMarketApp/raw/main/images/device-2021-12-09-233515.png)
+![Screenshot](https://github.com/skvarovski/PhotoMarketApp/raw/main/images/device-2021-12-10-001118.png)
